@@ -8,6 +8,7 @@ const ImageSearchApp = () => {
   const [error, setError] = useState(null);
 
   // Substitua pela sua chave de API real do TheSys/OpenUI
+  // API KEY        VVVVVVVVVVVVVV    
   const API_KEY = "REACT_APP_API_KEY"; 
 
   const handleSearch = async (e) => {
